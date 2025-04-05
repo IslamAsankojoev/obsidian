@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Заметка в гит.md",
+                "file": "Заметка в гит.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Github/Заметка в гит.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Github/Заметка в гит.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -156,6 +154,8 @@
   },
   "active": "e768d7ad96c22991",
   "lastOpenFiles": [
+    "Заметка в гит.md",
+    "Github/Заметка в гит.md",
     "/Заметка в гит.md"
   ]
 }
