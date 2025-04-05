@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметка в гит.md",
+                "file": "Ссылка на первую.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметка в гит"
+              "title": "Ссылка на первую"
             }
           }
         ]
@@ -156,8 +156,8 @@
   },
   "active": "942bd0d46c24978e",
   "lastOpenFiles": [
-    "Ссылка на первую.md",
     "Заметка в гит.md",
+    "Ссылка на первую.md",
     "/Ссылка на первую.md",
     "Github/Заметка в гит.md",
     "/Заметка в гит.md"
